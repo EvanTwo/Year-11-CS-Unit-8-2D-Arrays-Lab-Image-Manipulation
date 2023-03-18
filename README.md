@@ -66,3 +66,7 @@ Challenge 5:
 <img width="879" alt="Screen Shot 2023-03-07 at 3 48 36 PM" src="https://user-images.githubusercontent.com/57818506/223360180-d77d51cb-9074-48c8-ba63-43e8396812d6.png">
 
 As always, good luck, have fun! =)
+
+Name: Ivan
+
+Partner: None
